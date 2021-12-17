@@ -1,0 +1,58 @@
+{
+	"name": "freepbx15",
+	"plugin_schema": "2",
+	"release": "12.2-RELEASE",
+	"artifact": "https://github.com/SumGuyV5/iocage-plugin-freepbx15.git",
+	"pkgs":	[
+		"apache24",
+		"asterisk16",
+		"bash",
+		"bison",
+		"curl",
+		"flex",
+		"gcc",
+		"gnupg",
+		"libxml2",
+		"mod_php73",
+		"mongodb36",
+		"mpg123",
+		"mysql57-server",
+		"mysql57-client",
+		"mysql-connector-odbc-unixodbc-mysql57",
+		"ncurses",
+		"newt",
+		"node",
+		"npm",
+		"openssl",
+		"php73",
+		"php73-curl",
+		"php73-extensions",
+		"php73-gd",
+		"php73-gettext",
+		"php73-mbstring",
+		"php73-mysqli",
+		"php73-openssl",
+		"php73-pdo_mysql",
+		"php73-pear",
+		"php73-sysvsem",
+		"pidof",
+		"sox",
+		"sqlite3",
+		"sudo",
+		"unixODBC"
+	],
+	"properties": {
+		"dhcp": 1,
+		"vnet": 1,
+		"bpf": 1,
+		"allow_raw_sockets": 1
+	},
+	"packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
+	"fingerprints": {
+		"plugin-default": [{
+			"function": "sha256",
+			"fingerprint": "b0170035af3acc5f3f3ae1859dc717101b4e6c1d0a794ad554928ca0cbb2f438"
+		}]
+	},
+	"official": false
+}

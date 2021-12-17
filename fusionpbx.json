@@ -1,14 +1,16 @@
 {
-	"name": "jellyfin",
+	"name": "fusionpbx",
 	"plugin_schema": "2",
 	"release": "12.2-RELEASE",
-	"artifact": "https://github.com/SumGuyV5/iocage-plugin-jellyfin.git",
-	"pkgs":	[
+	"artifact": "https://github.com/SumGuyV5/iocage-plugin-fusionpbx.git",
+	"pkgs": [
+		"git"
 	],
-	"properties": {
-		"dhcp": 1,
-		"allow_raw_sockets": 1,
-		"allow_mlock": 1
+	"properties":{
+		"dhcp":1,
+		"vnet": 1,
+		"bpf": 1,
+		"allow_raw_sockets": 1
 	},
 	"packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
 	"fingerprints": {

@@ -2,7 +2,7 @@
 	"name": "openmeetings",
 	"plugin_schema": "2",
 	"release": "12.2-RELEASE",
-	"artifact": "/home/Richard/iocage-plugin-openmeetings",
+	"artifact": "https://github.com/SumGuyV5/iocage-plugin-openmeetings.git",
 	"pkgs":	[
 		"openjdk11-jre",
 		"imagemagick7-nox11",

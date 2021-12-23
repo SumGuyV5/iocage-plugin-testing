@@ -1,0 +1,132 @@
+{	
+	"btfs": {
+		"MANIFEST": "btfs.json",
+		"name": "BTFS",
+		"icon": "icons/btfs.png",
+		"description": "BitTorrent File System (BTFS) is a next-generation file-sharing protocol utilizing the TRON network and the BitTorrent ecosystem. ",
+		"official": false,
+		"primary_pkg": "go-btfs",
+		"category": "networking",
+		"homepage": "https://docs.btfs.io"
+	},
+	"code-server": {
+		"MANIFEST": "code-server.json",
+		"name": "code-server",
+		"icon": "icons/code-server.png",
+		"description": "Run VS Code on any machine anywhere and access it in the browser."
+		"official": false,
+		"primary_pkg": "code-server",
+		"category": "development",
+		"homepage": "https://coder.com"
+	},
+	"couchpotato": {
+		"MANIFEST": "couchpotato.json",
+		"name": "Couch Potato",
+		"icon": "icons/couchpotato.png",
+		"description": "Automatically find movies you want to watch."
+		"official": false,
+		"primary_pkg": "",
+		"category": "",
+		"homepage": "https://couchpota.to"
+	},
+	"drupal7": {
+		"MANIFEST": "drupal7.json",
+		"name": "Drupal 7",
+		"icon": "icons/drupal7.png",
+		"description": "The friendly and powerful content management platform for building nearly any kind."
+		"official": false,
+		"primary_pkg": "drupal7",
+		"category": "",
+		"homepage": "https://www.drupal.org/drupal-7.0"
+	},
+	"drupal8": {
+		"MANIFEST": "drupal8.json",
+		"name": "Drupal 8",
+		"icon": "icons/drupal8.png",
+		"description": "The world’s favorite open source content management platform just got better."
+		"official": false,
+		"primary_pkg": "drupal8",
+		"category": "",
+		"homepage": "https://www.drupal.org/8"
+	},
+	"drupal9": {
+		"MANIFEST": "drupal9.json",
+		"name": "Drupal 9",
+		"icon": "icons/drupal9.png",
+		"description": "Build the best of the web."
+		"official": false,
+		"primary_pkg": "drupal9",
+		"category": "",
+		"homepage": "https://www.drupal.org/about/9"
+	},
+	"freepbx15": {
+		"MANIFEST": "freepbx15.json",
+		"name": "FreePBX 15",
+		"icon": "icons/freepbx15.png",
+		"description": "FreePBX, the world’s most popular open source IP PBX, gives users the tools to build a phone system tailored to their needs.."
+		"official": false,
+		"primary_pkg": "asterisk16",
+		"category": "",
+		"homepage": "https://www.freepbx.org"
+	},
+	"fusionpbx": {
+		"MANIFEST": "fusionpbx.json",
+		"name": "FusionPBX",
+		"icon": "icons/fusionpbx.png",
+		"description": "Highly available single or domain based multi-tenant PBX, carrier grade switch, call center server, fax server, voip server, voicemail server, conference server, voice application server, appliance framework and more."
+		"official": false,
+		"primary_pkg": "asterisk16",
+		"category": "",
+		"homepage": "https://www.fusionpbx.com"
+	},
+	"jellyfin": {
+		"MANIFEST": "jellyfin.json",
+		"name": "Jellyfin",
+		"icon": "icons/jellyfin.png",
+		"description": "An open source media server to organize, play, and stream audio and video to a variety of devices.",
+		"official": false,
+		"primary_pkg": "jellyfin",
+		"category": "entertainment",
+		"homepage": "https://jellyfin.org"
+	},
+	"ombi": {
+		"MANIFEST": "ombi.json",
+		"name": "Ombi",
+		"icon": "icons/ombi.png",
+		"description": "Ombi is a self-hosted web application that automatically gives your shared Plex or Emby users the ability to request content by themselves.",
+		"official": false,
+		"primary_pkg": "ombi",
+		"category": "entertainment",
+		"homepage": "https://ombi.io"
+	},
+	"openmeetings": {
+		"MANIFEST": "openmeetings.json",
+		"name": "OpenMeetings",
+		"icon": "icons/openmeetings.png",
+		"description": "Openmeetings provides video conferencing, instant messaging, white board, collaborative document editing and other groupware tools. It uses API functions of Media Server for Remoting and Streaming Kurento.",
+		"official": false,
+		"primary_pkg": "openjdk11-jre",
+		"category": "",
+		"homepage": "https://openmeetings.apache.org"
+	},
+	"prowlarr": {
+		"MANIFEST": "prowlarr.json",
+		"name": "prowlarr",
+		"icon": "icons/prowlarr.png",
+		"description": "Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps.",
+		"official": false,
+		"primary_pkg": "",
+		"category": "",
+		"homepage": "https://prowlarr.com"
+	},
+	"teamspeak3server": {
+		"MANIFEST": "teamspeak3server.json",
+		"name": "TeamSpeak3 Server",
+		"icon": "icons/teamspeak3server.png",
+		"description": "Use crystal clear sound to communicate with your team mates cross-platform with military-grade security, lag-free performance & unparalleled reliability and uptime.",
+		"official": false,
+		"primary_pkg": "",
+		"category": "",
+		"homepage": "https://www.teamspeak.com"
+	}
+}

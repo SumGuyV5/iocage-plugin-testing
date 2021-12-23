@@ -2,7 +2,7 @@
 	"name": "code-server",
 	"plugin_schema": "2",
 	"release": "12.2-RELEASE",
-	"artifact": "/home/Richard/iocage-plugin-code-server",
+	"artifact": "https://github.com/SumGuyV5/iocage-plugin-code-server.git",
 	"pkgs":	[
 	],
 	"properties": {

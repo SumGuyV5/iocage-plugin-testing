@@ -59,6 +59,16 @@
 		"category": "",
 		"homepage": "https://www.drupal.org/about/9"
 	},
+	"flaresolverr": {
+		"MANIFEST": "flaresolverr.json",
+		"name": "FlareSolverr",
+		"icon": "https://github.com/SumGuyV5/iocage-plugin-testing/raw/master/icons/flaresolverr.png",
+		"description": "FlareSolverr is a proxy server to bypass Cloudflare protection.",
+		"official": false,
+		"primary_pkg": "",
+		"category": "",
+		"homepage": "https://github.com/FlareSolverr/FlareSolverr"
+	},
 	"freepbx15": {
 		"MANIFEST": "freepbx15.json",
 		"name": "FreePBX 15",

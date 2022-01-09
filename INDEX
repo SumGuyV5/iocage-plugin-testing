@@ -89,6 +89,16 @@
 		"category": "",
 		"homepage": "https://www.fusionpbx.com"
 	},
+	"headphones": {
+		"MANIFEST": "headphones.json",
+		"name": "Headphones",
+		"icon": "https://github.com/SumGuyV5/iocage-plugin-testing/raw/master/icons/headphones.png",
+		"description": "Headphones is an automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole",
+		"official": false,
+		"primary_pkg": "",
+		"category": "",
+		"homepage": "https://github.com/rembo10/headphones"
+	},
 	"jellyfin": {
 		"MANIFEST": "jellyfin.json",
 		"name": "Jellyfin",

@@ -149,6 +149,16 @@
 		"category": "",
 		"homepage": "https://prowlarr.com"
 	},
+	"sickgear": {
+		"MANIFEST": "sickgear.json",
+		"name": "sickgear",
+		"icon": "https://github.com/SumGuyV5/iocage-plugin-testing/raw/master/icons/sickgear.png",
+		"description": "SickGear provides management of TV shows and/or Anime, it detects new episodes, links downloader apps, and more.",
+		"official": false,
+		"primary_pkg": "",
+		"category": "",
+		"homepage": "https://github.com/SickGear/SickGear"
+	},
 	"teamspeak3server": {
 		"MANIFEST": "teamspeak3server.json",
 		"name": "TeamSpeak3 Server",

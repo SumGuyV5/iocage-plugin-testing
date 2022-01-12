@@ -5,7 +5,7 @@ Install a plugin by running a this command...
 ```sh
 iocage fetch -P <plugin_name> -g https://github.com/SumGuyV5/iocage-plugin-testing.git --update
 ```
-or
+or for a list of plugins
 ```sh
 iocage fetch --plugins -g https://github.com/SumGuyV5/iocage-plugin-testing.git --update
 ```

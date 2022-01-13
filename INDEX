@@ -109,6 +109,16 @@
 		"category": "entertainment",
 		"homepage": "https://jellyfin.org"
 	},
+	"lasylibrarian": {
+		"MANIFEST": "lasylibrarian.json",
+		"name": "LasyLibrarian",
+		"icon": "https://github.com/SumGuyV5/iocage-plugin-testing/raw/master/icons/lasylibrarian.png",
+		"description": "LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs.",
+		"official": false,
+		"primary_pkg": "",
+		"category": "entertainment",
+		"homepage": "https://lazylibrarian.gitlab.io"
+	},
 	"ombi": {
 		"MANIFEST": "ombi.json",
 		"name": "Ombi",

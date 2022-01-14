@@ -119,6 +119,16 @@
 		"category": "entertainment",
 		"homepage": "https://lazylibrarian.gitlab.io"
 	},
+	"nzbhydra2": {
+		"MANIFEST": "nzbhydra2.json",
+		"name": "LasyLibrarian",
+		"icon": "https://github.com/SumGuyV5/iocage-plugin-testing/raw/master/icons/nzbhydra2.png",
+		"description": "NZBHydra 2 is a meta search for NZB indexers. It provides easy access to a number of raw and newznab based indexers.",
+		"official": false,
+		"primary_pkg": "nzbhydra2",
+		"category": "entertainment",
+		"homepage": "https://github.com/theotherp/nzbhydra2"
+	},
 	"ombi": {
 		"MANIFEST": "ombi.json",
 		"name": "Ombi",

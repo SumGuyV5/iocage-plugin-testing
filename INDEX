@@ -85,7 +85,7 @@
 		"icon": "https://github.com/SumGuyV5/iocage-plugin-testing/raw/master/icons/fusionpbx.png",
 		"description": "Highly available single or domain based multi-tenant PBX, carrier grade switch, call center server, fax server, voip server, voicemail server, conference server, voice application server, appliance framework and more.",
 		"official": false,
-		"primary_pkg": "asterisk16",
+		"primary_pkg": "freeswitch",
 		"category": "",
 		"homepage": "https://www.fusionpbx.com"
 	},
@@ -121,7 +121,7 @@
 	},
 	"nzbhydra2": {
 		"MANIFEST": "nzbhydra2.json",
-		"name": "LasyLibrarian",
+		"name": "NZBHydra2",
 		"icon": "https://github.com/SumGuyV5/iocage-plugin-testing/raw/master/icons/nzbhydra2.png",
 		"description": "NZBHydra 2 is a meta search for NZB indexers. It provides easy access to a number of raw and newznab based indexers.",
 		"official": false,

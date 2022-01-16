@@ -169,6 +169,16 @@
 		"category": "",
 		"homepage": "https://prowlarr.com"
 	},
+	"radarr-dotNET": {
+		"MANIFEST": "radarr-dotNET.json",
+		"name": "radarr-dotNET",
+		"icon": "https://github.com/SumGuyV5/iocage-plugin-testing/raw/master/icons/radarr-dotNET.png",
+		"description": "radarr-dotNET Automatically downloads movies. using dotNET core and not mono.",
+		"official": false,
+		"primary_pkg": "",
+		"category": "",
+		"homepage": "https://radarr.video"
+	},
 	"sickgear": {
 		"MANIFEST": "sickgear.json",
 		"name": "sickgear",

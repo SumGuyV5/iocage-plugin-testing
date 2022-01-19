@@ -198,7 +198,7 @@
 		"primary_pkg": "",
 		"category": "",
 		"homepage": "https://www.teamspeak.com"
-	}
+	},
 	"watcher": {
 		"MANIFEST": "watcher.json",
 		"name": "Watcher",

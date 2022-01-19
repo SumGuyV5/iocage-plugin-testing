@@ -1,0 +1,23 @@
+{
+	"name": "watcher",
+	"plugin_schema": "2",
+	"release": "12.2-RELEASE",
+	"artifact": "https://github.com/SumGuyV5/iocage-plugin-watcher.git",
+	"pkgs": [
+		"git-tiny",
+		"python37",
+		"py37-sqlite3"
+	],
+	"properties":{
+		"nat": 1,
+        	"nat_forwards": "tcp(9090:9090)"
+	},
+	"packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
+	"fingerprints": {
+		"plugin-default": [{
+			"function": "sha256",
+			"fingerprint": "b0170035af3acc5f3f3ae1859dc717101b4e6c1d0a794ad554928ca0cbb2f438"
+		}]
+	},
+	"official": false
+}

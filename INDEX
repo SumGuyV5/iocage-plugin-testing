@@ -199,4 +199,14 @@
 		"category": "",
 		"homepage": "https://www.teamspeak.com"
 	}
+	"watcher": {
+		"MANIFEST": "watcher.json",
+		"name": "Watcher",
+		"icon": "https://github.com/SumGuyV5/iocage-plugin-testing/raw/master/icons/watcher.png",
+		"description": "Watcher is an automated movie NZB & Torrent searcher and snatcher. You can add a list of wanted movies and Watcher will automatically send the NZB or Torrent to your download client.",
+		"official": false,
+		"primary_pkg": "",
+		"category": "",
+		"homepage": "https://github.com/nosmokingbandit/Watcher3"
+	}
 }

@@ -119,6 +119,16 @@
 		"category": "entertainment",
 		"homepage": "https://lazylibrarian.gitlab.io"
 	},
+	"medusa": {
+		"MANIFEST": "medusa.json",
+		"name": "Medusa",
+		"icon": "https://github.com/SumGuyV5/iocage-plugin-testing/raw/master/icons/medusa.png",
+		"description": "Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.",
+		"official": false,
+		"primary_pkg": "",
+		"category": "entertainment",
+		"homepage": "https://pymedusa.com/"
+	},
 	"nzbhydra2": {
 		"MANIFEST": "nzbhydra2.json",
 		"name": "NZBHydra2",

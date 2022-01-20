@@ -169,6 +169,16 @@
 		"category": "",
 		"homepage": "https://openmeetings.apache.org"
 	},
+	"organizr": {
+		"MANIFEST": "organizr.json",
+		"name": "organizr",
+		"icon": "https://github.com/SumGuyV5/iocage-plugin-testing/raw/master/icons/organizr.png",
+		"description": "Organizr allows you to setup "Tabs" that will be loaded all in one webpage. You can then work on your server with ease.",
+		"official": false,
+		"primary_pkg": "",
+		"category": "",
+		"homepage": "https://organizr.app"
+	},
 	"prowlarr": {
 		"MANIFEST": "prowlarr.json",
 		"name": "prowlarr",

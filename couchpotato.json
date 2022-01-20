@@ -11,7 +11,8 @@
 		"git-lite"
 	],
 	"properties": {
-		"dhcp": 1
+		"nat": 1,
+        	"nat_forwards": "tcp(5050:5050)"
 	},
 	"packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
 	"fingerprints": {

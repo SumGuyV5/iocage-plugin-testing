@@ -89,6 +89,16 @@
 		"category": "",
 		"homepage": "https://www.fusionpbx.com"
 	},
+	"handbrake": {
+		"MANIFEST": "handbrake.json",
+		"name": "Handbrake",
+		"icon": "https://github.com/SumGuyV5/iocage-plugin-testing/raw/master/icons/handbrake.png",
+		"description": "HandBrake is a tool for converting video from nearly any format to a selection of modern, widely supported codecs.",
+		"official": false,
+		"primary_pkg": "handbrake",
+		"category": "",
+		"homepage": "https://handbrake.fr"
+	},
 	"headphones": {
 		"MANIFEST": "headphones.json",
 		"name": "Headphones",

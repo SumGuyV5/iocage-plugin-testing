@@ -3,11 +3,11 @@
 	"plugin_schema": "2",
 	"release": "12.2-RELEASE",
 	"artifact": "https://github.com/SumGuyV5/iocage-plugin-radarr-dotNET.git",
-	"pkgs":	[
+	"pkgs": [
 	],
 	"properties": {
-        	"nat": 1,
-	        "nat_forwards": "tcp(7878:7878)",
+		"nat": 1,
+		"nat_forwards": "tcp(7878:7878)",
 		"allow_mlock": 1
 	},
 	"packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",

@@ -3,7 +3,7 @@
 	"plugin_schema": "2",
 	"release": "12.2-RELEASE",
 	"artifact": "https://github.com/SumGuyV5/iocage-plugin-openhab.git",
-	"pkgs":	[
+	"pkgs": [
 		"openhab",
 		"openhab-addons"
 	],

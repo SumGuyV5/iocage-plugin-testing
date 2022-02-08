@@ -3,12 +3,12 @@
 	"plugin_schema": "2",
 	"release": "12.2-RELEASE",
 	"artifact": "https://github.com/SumGuyV5/iocage-plugin-obmi.git",
-	"pkgs":	[
+	"pkgs": [
 	],
 	"properties": {
 		"allow_sysvipc": 1,
-        	"nat": 1,
-        	"nat_forwards": "tcp(5000:5000)",
+		"nat": 1,
+		"nat_forwards": "tcp(5000:5000)",
 		"allow_mlock": 1
 	},
 	"packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",

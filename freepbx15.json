@@ -3,7 +3,7 @@
 	"plugin_schema": "2",
 	"release": "12.2-RELEASE",
 	"artifact": "https://github.com/SumGuyV5/iocage-plugin-freepbx15.git",
-	"pkgs":	[
+	"pkgs": [
 		"apache24",
 		"asterisk16",
 		"bash",

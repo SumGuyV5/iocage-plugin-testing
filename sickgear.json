@@ -13,7 +13,7 @@
 	],
 	"properties":{
 		"nat": 1,
-        	"nat_forwards": "tcp(8081:8081)"
+		"nat_forwards": "tcp(8081:8081)"
 	},
 	"packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
 	"fingerprints": {

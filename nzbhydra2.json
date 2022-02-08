@@ -8,7 +8,7 @@
 	],
 	"properties":{
 		"nat": 1,
-        	"nat_forwards": "tcp(5076:5076)"
+		"nat_forwards": "tcp(5076:5076)"
 	},
 	"packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
 	"fingerprints": {

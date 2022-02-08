@@ -10,7 +10,7 @@
 	],
 	"properties":{
 		"nat": 1,
-        	"nat_forwards": "tcp(9090:9090)"
+		"nat_forwards": "tcp(9090:9090)"
 	},
 	"packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
 	"fingerprints": {

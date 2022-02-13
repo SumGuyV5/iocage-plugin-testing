@@ -5,14 +5,14 @@
 	"artifact": "https://github.com/SumGuyV5/iocage-plugin-drupal9.git",
 	"pkgs": [
 		"mysql57-server",
-		"php74-curl",
-		"php74-pecl-uploadprogress",
-		"php74-pecl-APCu",
-		"php74-composer2",
+		"php80-curl",
+		"php80-pecl-uploadprogress",
+		"php80-pecl-APCu",
+		"php80-composer2",
 		"apache24",
-		"mod_php74",
+		"mod_php80",
 		"drupal9",
-		"drush-php74"
+		"drush-php80"
 	],
 	"properties": {
 		"dhcp": 1

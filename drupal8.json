@@ -17,7 +17,7 @@
 	"properties": {
 		"dhcp": 1
 	},
-	"packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
+	"packagesite": "http://pkg.FreeBSD.org/${ABI}/quarterly",
 	"fingerprints": {
 		"plugin-default": [{
 			"function": "sha256",

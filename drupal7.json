@@ -12,7 +12,7 @@
 		"apache24",
 		"mod_php80",
 		"drupal7",
-		"drush-php80"
+		"php80-tokenizer"
 	],
 	"properties": {
 		"dhcp": 1

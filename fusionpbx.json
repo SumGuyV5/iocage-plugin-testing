@@ -4,7 +4,7 @@
 	"release": "12.2-RELEASE",
 	"artifact": "https://github.com/SumGuyV5/iocage-plugin-fusionpbx.git",
 	"pkgs": [
-		"git"
+		"git-tiny"
 	],
 	"properties":{
 		"dhcp":1,

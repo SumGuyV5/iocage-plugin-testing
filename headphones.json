@@ -5,8 +5,8 @@
 	"artifact": "https://github.com/SumGuyV5/iocage-plugin-headphones.git",
 	"pkgs": [
 		"git-tiny",
-		"python27",
-		"py27-sqlite3"
+		"python3",
+		"py38-sqlite3"
 	],
 	"properties":{
 		"nat": 1,

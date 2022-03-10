@@ -9,6 +9,16 @@
 		"category": "networking",
 		"homepage": "https://docs.btfs.io"
 	},
+	"clamtk": {
+		"MANIFEST": "clamtk.json",
+		"name": "clamtk",
+		"icon": "https://github.com/SumGuyV5/iocage-plugin-testing/raw/master/icons/clamtk.png",
+		"description": "Sets up a ClamAV with a web GUI using Clamtk and noVNC.",
+		"official": false,
+		"primary_pkg": "clamtk",
+		"category": "",
+		"homepage": "https://gitlab.com/dave_m/clamtk/"
+	},
 	"code-server": {
 		"MANIFEST": "code-server.json",
 		"name": "code-server",

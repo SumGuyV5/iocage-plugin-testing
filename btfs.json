@@ -1,7 +1,7 @@
 {
 	"name": "btfs",
 	"plugin_schema": "2",
-	"release": "12.2-RELEASE",
+	"release": "13.1-RELEASE",
 	"artifact": "https://github.com/SumGuyV5/iocage-plugin-btfs.git",
 	"pkgs": [
 		"go-btfs"

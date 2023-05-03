@@ -4,6 +4,7 @@
 	"release": "13.1-RELEASE",
 	"artifact": "https://github.com/SumGuyV5/iocage-plugin-jellyfin.git",
 	"pkgs": [
+		"jellyfin"
 	],
 	"properties": {
 		"dhcp": 1,

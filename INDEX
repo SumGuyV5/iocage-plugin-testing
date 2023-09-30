@@ -219,6 +219,16 @@
 		"category": "",
 		"homepage": "https://radarr.video"
 	},
+	"searx": {
+		"MANIFEST": "searx.json",
+		"name": "searx",
+		"icon": "https://github.com/SumGuyV5/iocage-plugin-testing/raw/master/icons/searx.png",
+		"description": "Searx is a free internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, searx can be used over Tor for online anonymity.",
+		"official": false,
+		"primary_pkg": "searx",
+		"category": "",
+		"homepage": "https://searx.github.io/searx/"
+	},
 	"sickgear": {
 		"MANIFEST": "sickgear.json",
 		"name": "sickgear",

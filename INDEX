@@ -229,6 +229,16 @@
 		"category": "",
 		"homepage": "https://searx.github.io/searx/"
 	},
+	"searxng": {
+		"MANIFEST": "searxng.json",
+		"name": "searxng",
+		"icon": "https://github.com/SumGuyV5/iocage-plugin-testing/raw/master/icons/searxng.png",
+		"description": "SearXNG is a free internet metasearch engine which aggregates results from more than 70 search services. Users are neither tracked nor profiled. Additionally, SearXNG can be used over Tor for online anonymity.",
+		"official": false,
+		"primary_pkg": "",
+		"category": "",
+		"homepage": "https://docs.searxng.org/"
+	},
 	"sickgear": {
 		"MANIFEST": "sickgear.json",
 		"name": "sickgear",

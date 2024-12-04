@@ -1,7 +1,7 @@
 {
 	"name": "jellyfin",
 	"plugin_schema": "2",
-	"release": "13.1-RELEASE",
+	"release": "13.3-RELEASE",
 	"artifact": "https://github.com/SumGuyV5/iocage-plugin-jellyfin.git",
 	"pkgs": [
 		"jellyfin"
